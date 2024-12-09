@@ -29,5 +29,5 @@ const arr3: [number, number, string] = [123, 456, 'awawa']; // 이것은 튜플
 // 객체 타이핑
 const obj: { lat: number; lon: number } = { lat: 27.5, lon: 120.3 };
 
-// 이러한 것도 가능하다
+// 이러한 것도 가능하다 - 값을 고정하기 ~ 정확한 원시값 타입
 const oh: true = true;
